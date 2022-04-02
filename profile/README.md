@@ -5,8 +5,8 @@
 
 # Important group of repositories
 
-- [bc4-plc](https://github.com/brunvoll-group?q=bc4-plc)
-- [bmo-project-configs](https://github.com/brunvoll-group?q=bmo-project-configs)
-- [cms](https://github.com/brunvoll-group?q=cms)
-- [hydro](https://github.com/brunvoll-group?q=hydro)
-- [SEAOPS](https://github.com/brunvoll-group?q=seaops)
+- [bc4-plc](https://github.com/brunvoll-group?q=bc4-plc#org-profile-repositories)
+- [bmo-project-configs](https://github.com/brunvoll-group?q=bmo-project-configs#org-profile-repositories)
+- [cms](https://github.com/brunvoll-group?q=cms#org-profile-repositories)
+- [hydro](https://github.com/brunvoll-group?q=hydro#org-profile-repositories)
+- [SEAOPS](https://github.com/brunvoll-group?q=seaops#org-profile-repositories)

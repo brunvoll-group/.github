@@ -1,6 +1,7 @@
 # BruCon-5
 
 - [brucon5](https://github.com/brunvoll-group/brucon5)
+- [brucon5-documentation](https://github.com/brunvoll-group/brucon5-documentation)
 
 # Important group of repositories
 

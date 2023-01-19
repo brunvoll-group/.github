@@ -11,3 +11,5 @@
 - [cms](https://github.com/brunvoll-group?q=cms#org-profile-repositories): CMS related 
 - [hydro](https://github.com/brunvoll-group?q=hydro#org-profile-repositories): Hyrdo related
 - [SEAOPS](https://github.com/brunvoll-group?q=seaops#org-profile-repositories): SEAOPS related
+
+PS! We have a common repo for testing and playing around: [playground](https://github.com/brunvoll-group/playground)

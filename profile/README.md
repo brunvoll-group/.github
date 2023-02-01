@@ -1,15 +1,20 @@
-# BruCon-5
+# Control systems
 
-- [brucon5](https://github.com/brunvoll-group/brucon5)
-- [brucon5-documentation](https://github.com/brunvoll-group/brucon5-documentation)
+Brunvoll delivers propulsion and thruster control systems with local control for own units and 
+remote control (bridge) for own, and foreign, units. The current version is named **BruCon-5**.
 
-# Important group of repositories
+Brunvoll also delivers DP - from unclassified DP0 to DP2, Joystick, and Auto-crossing systems.
 
-- [bmo-project](https://github.com/brunvoll-group?q=bmo-project-configs#org-profile-repositories): Molde project configuration and more
-- [brucon4](https://github.com/brunvoll-group?q=brucon4#org-profile-repositories): BruCon-4 bridge software and more - formerly "fourgen" (and friends).
-- [bc4-plc](https://github.com/brunvoll-group?q=bc4-plc#org-profile-repositories): BruCon-4 PLC programs and more
-- [cms](https://github.com/brunvoll-group?q=cms#org-profile-repositories): CMS related 
-- [hydro](https://github.com/brunvoll-group?q=hydro#org-profile-repositories): Hyrdo related
-- [SEAOPS](https://github.com/brunvoll-group?q=seaops#org-profile-repositories): SEAOPS related
+Our software is maintained here at GitHub. We contribute back to relevant open source projects
+either directly or through (public) forks.
 
-PS! We have a common repo for testing and playing around: [playground](https://github.com/brunvoll-group/playground)
+# Thrusters and propulsion systems
+
+Brunvoll delivers
+
+- Tunnel thrusters
+- Retractable azimuth thrusters
+- Propulsion azimuth thrusters
+- Propellers and reduction gearboxes
+
+For a full product overview, [visit the Brunvoll homepage](https://www.brunvoll.no/products).
